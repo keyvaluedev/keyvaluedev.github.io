@@ -1,0 +1,13 @@
+tasks:
+  install:
+    image: node:carbon
+    commard:
+      - yarn
+    args:
+      - install
+  build:
+    image: node:carbon
+    commard:
+      - yarn
+    args:
+      - build
