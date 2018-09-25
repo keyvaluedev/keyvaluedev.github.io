@@ -1,11 +1,11 @@
 tasks:
-  install:
+  build:
     image: node:carbon
     commard:
       - yarn
     args:
       - install
-  build:
+  build-site:
     image: node:carbon
     commard:
       - yarn
