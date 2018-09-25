@@ -1,2 +1,0 @@
-webpackJsonp([0x8bd92cd24c3a],{203:function(e,t,l){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var a=l(2),n=u(a),o=l(47),d=u(o),c=function(){return n.default.createElement("div",null,n.default.createElement("h1",null,"Cheers!"),n.default.createElement("p",null,"We'll get back to you soon."),n.default.createElement(d.default,{to:"/"},"Go to homepage."))};t.default=c,e.exports=t.default}});
-//# sourceMappingURL=component---src-pages-cheers-js-d79f01275f76e7003547.js.map
